@@ -1,0 +1,9 @@
+/home/abc/chip2/rknpu2/examples/rknn_covid_demo/install/rknn_covid_demo_Android/./librknn_covid_demo.so
+/home/abc/chip2/rknpu2/examples/rknn_covid_demo/install/rknn_covid_demo_Android/lib/librknnrt.so
+/home/abc/chip2/rknpu2/examples/rknn_covid_demo/install/rknn_covid_demo_Android/.//model/coco_80_labels_list.txt
+/home/abc/chip2/rknpu2/examples/rknn_covid_demo/install/rknn_covid_demo_Android/.//model/RK3588/face.rknn
+/home/abc/chip2/rknpu2/examples/rknn_covid_demo/install/rknn_covid_demo_Android/.//model/RK3588/hrnet.rknn
+/home/abc/chip2/rknpu2/examples/rknn_covid_demo/install/rknn_covid_demo_Android/.//model/RK3588/mouth.rknn
+/home/abc/chip2/rknpu2/examples/rknn_covid_demo/install/rknn_covid_demo_Android/.//model/RK356X/face.rknn
+/home/abc/chip2/rknpu2/examples/rknn_covid_demo/install/rknn_covid_demo_Android/.//model/RK356X/hrnet.rknn
+/home/abc/chip2/rknpu2/examples/rknn_covid_demo/install/rknn_covid_demo_Android/.//model/RK356X/mouth.rknn
